@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490472898 source:d:\documents\_cs\cs115 and cs215 c++\cpp\editor code\main.cpp
+	<fstream>
+	<string>
+	<vector>
+
+1491216924 source:d:\documents\_cs\cs115 and cs215 c++\cpp\assignments cs336\editor code\main.cpp
+	<fstream>
+	<string>
+	<vector>
+

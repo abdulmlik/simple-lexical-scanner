@@ -1,0 +1,18 @@
+TestProgram(input,output);
+int  A,B,C,AB,AC ;
+bool z1,z2 ;
+string:= c1,c2;
+ begin
+  A:= 10 ;
+  B:= 20 ;
+  c1:= "libya";
+  c2:= "ahmed
+  z1:= ( A >= B and B <> D) ;
+  z2:= ( AB <= B and AC <> C) ;
+   
+  C:= A + B ;
+  if ( A <> B ) then
+    AB:=A*B;
+  else
+    AC:=A*c;
+ end
