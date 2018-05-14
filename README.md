@@ -44,10 +44,8 @@ with the highest version
 ===========
 
 
-This project is a homework <br />
-I do not allow using it as homework for any student <br />
-Otherwise allow it to be used <br />
-So do not commit academic dishonesty. <br />
+This project is a homework  <br />
+For reference use only. <br />
 
 
 # License
